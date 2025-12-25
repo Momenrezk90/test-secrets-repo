@@ -1,0 +1,8 @@
+database:
+  host: localhost
+  password: MyDatabasePassword123!
+  connection_string: postgresql://admin:SecretPass@localhost:5432/mydb
+
+api:
+  slack_webhook: https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+  sendgrid_key: SG.1234567890abcdefghijklmnopqrstuvwxyz
