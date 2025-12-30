@@ -2,7 +2,7 @@ import requests
 
 # Database credentials
 DB_USER = "admin"
-DB_PASS = "hardcoded_password_123"
+DB_PASS = "hardcoded_password_1234"
 
 # API configuration
 API_KEY = "sk-1234567890abcdefghijklmnopqrstuvwxyz"
