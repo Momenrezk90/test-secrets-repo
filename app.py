@@ -15,7 +15,7 @@ GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyzABC"
 STRIPE_SECRET_KEY = "sk_live_1234567890abcdefghijklmnopqrstuvwxyz"
 STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnopqrstuvwxyz"
 STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnophythtyhqad"
-STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnopqrstuvwxti"
+STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnopqrstuvwxta"
 
 # SendGrid API Key (WILL BE DETECTED)
 SENDGRID_API_KEY = "SG.1234567890abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijklmnopqrstuvwxyz"
