@@ -14,9 +14,12 @@ GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyzABC"
 # Stripe API Key (WILL BE DETECTED)
 STRIPE_SECRET_KEY = "sk_live_1234567890abcdefghijklmnopqrstuvwxyz"
 STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnopqrstuvwxyz"
+STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnophythtyhqad"
+STRIPE_PUBLISHABLE = "pk_live_1234567890abcdefghijklmnopqrstuvwxti"
 
 # SendGrid API Key (WILL BE DETECTED)
 SENDGRID_API_KEY = "SG.1234567890abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijklmnopqrstuvwxyz"
+SENDGRID_API_KEY = "SG.1234567890abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijklmnopqrstuvwxqw"
 
 # Slack Webhook (WILL BE DETECTED)
 SLACK_WEBHOOK = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
